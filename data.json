@@ -1,0 +1,465 @@
+{
+  "mundos" : [ {
+    "icon" : "mostacho",
+    "items" : [ {
+      "evento" : "",
+      "image" : "190607-des-xl-hombre-casacas",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat7720463/Marcas-Destacadas/N-1z10ug0",
+      "width" : "2"
+    }, {
+      "evento" : "",
+      "image" : "190607-des-hombre-chompas",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat7720463/Marcas-Destacadas/N-1z10ufo",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190607-des-hombre-camisas",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat7720463/Marcas-Destacadas/N-1z10sfaZ1z10ub8?page=2",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190607-des-zapatillas",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat1480500/",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190607-des-botines",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat1470546/",
+      "width" : "1",
+      "version":"vid=2"
+    }, {
+      "evento" : "",
+      "image" : "190607-des-xl-hombre-mango",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat10290525/Mango",
+      "width" : "2"
+    },
+
+
+    {
+      "evento" : "",
+      "image" : "190607-des-xl-perfumes",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat12550462/",
+      "width" : "2"
+    }, {
+      "evento" : "",
+      "image" : "190607-des-xl-audifonos-snnheiser-329",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat800582/",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190607-des-xl-reloj-fossil-409",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat9090478/",
+      "width" : "1"
+    },
+
+    {
+      "evento" : "",
+      "image" : "190530-des-zapatillas-runfalcon-169",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat12500510/",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190530-des-vestuario-deportivo",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat6630655/Vestuario-Deportivo-Hombre",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190530-des-xl-bicicletas-2999",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat3930550/Electricos",
+      "width" : "2"
+    } ],
+    "name" : "papa",
+    "order" : 0,
+    "section" : "FELIZ DÍA PAPÁ",
+    "title" : "FELIZ DÍA PAPÁ"
+  }, {
+    "icon" : "tecnologia",
+    "items" : [ {
+      "evento" : "",
+      "image" : "190607-pc-televisores-799-ou",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/product/16705624/",
+      "width" : "2"
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-computo-2299",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat40712/Laptops",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-30-calefaccion-499",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat5600476/",
+      "width" : "1"
+    } ],
+    "name" : "electro",
+    "order" : 1,
+    "section" : "ELECTRO Y TECNOLOGÍA",
+    "title" : "ELECTRO Y TECNOLOGÍA"
+  }, {
+    "icon" : "decohogar",
+    "items" : [
+
+      {
+        "evento" : "",
+        "image" : "190607-pc-decohogar-25-sofas-779",
+        "maxHeight" : "",
+        "normal" : "",
+        "price" : "",
+        "subtitle" : "",
+        "textButton" : "",
+        "title" : "",
+        "url" : "https://www.falabella.com.pe/falabella-pe/category/cat8810475/",
+        "width" : "2",
+        "version":"vid=3"
+      }, {
+        "evento" : "",
+        "image" : "190607-pc-decohogar-25-bar-999",
+        "maxHeight" : "",
+        "normal" : "",
+        "price" : "",
+        "subtitle" : "",
+        "textButton" : "",
+        "title" : "",
+        "url" : "https://www.falabella.com.pe/falabella-pe/category/cat12520496/",
+        "width" : "1",
+        "version":"vid=2"
+      }, {
+        "evento" : "",
+        "image" : "190607-pc-decohogar-20-juegodeollas",
+        "maxHeight" : "",
+        "normal" : "",
+        "price" : "",
+        "subtitle" : "",
+        "textButton" : "",
+        "title" : "",
+        "url" : "https://www.falabella.com.pe/falabella-pe/category/cat3160462/Juegos-de-Ollas/N-2x3lZ2ymxZ2z9dZ2zeg",
+        "width" : "1",
+        "version":"vid=2"
+      }, {
+        "evento" : "",
+        "image" : "190607-pc-decohogar-mundonappy-699",
+        "maxHeight" : "",
+        "normal" : "",
+        "price" : "",
+        "subtitle" : "",
+        "textButton" : "",
+        "title" : "",
+        "url" : "https://www.falabella.com.pe/falabella-pe/search/?Ntt=12882433+12882434+16550078+16550079",
+        "width" : "1",
+        "version":"vid=2"
+      }, {
+        "evento" : "",
+        "image" : "190607-pc-decohogar-dormitorios-1499",
+        "maxHeight" : "",
+        "normal" : "",
+        "price" : "",
+        "subtitle" : "",
+        "textButton" : "",
+        "title" : "",
+        "url" : "https://www.falabella.com.pe/falabella-pe/category/cat11510467/",
+        "width" : "1",
+        "version":"vid=2"
+      }, {
+        "evento" : "",
+        "image" : "190607-pc-decohogar-xl-25-camas-1199",
+        "maxHeight" : "",
+        "normal" : "",
+        "price" : "",
+        "subtitle" : "",
+        "textButton" : "",
+        "title" : "",
+        "url" : "https://www.falabella.com.pe/falabella-pe/category/cat11200499/",
+        "width" : "2",
+        "version":"vid=3"
+      }, {
+        "evento" : "",
+        "image" : "190607-pc-decohogar-40-plumas-99",
+        "maxHeight" : "",
+        "normal" : "",
+        "price" : "",
+        "subtitle" : "",
+        "textButton" : "",
+        "title" : "",
+        "url" : "https://www.falabella.com.pe/falabella-pe/category/cat6880475/Edredones-y-Plumas",
+        "width" : "2",
+        "version":"vid=3"
+      }, {
+        "evento" : "",
+        "image" : "190607-pc-decohogar-40-frazadas-3990",
+        "maxHeight" : "",
+        "normal" : "",
+        "price" : "",
+        "subtitle" : "",
+        "textButton" : "",
+        "title" : "",
+        "url" : "https://www.falabella.com.pe/falabella-pe/category/cat6880474/Frazadas-y-Mantas",
+        "width" : "1",
+        "version":"vid=2"
+      }, {
+        "evento" : "",
+        "image" : "190607-pc-decohogar-40-cubrecamas-199",
+        "maxHeight" : "",
+        "normal" : "",
+        "price" : "",
+        "subtitle" : "",
+        "textButton" : "",
+        "title" : "",
+        "url" : "https://www.falabella.com.pe/falabella-pe/category/cat2660482/Juegos-de-Cama",
+        "width" : "1",
+        "version":"vid=2"
+      }
+     ],
+    "name" : "decohogar",
+    "order" : 2,
+    "section" : "DECOHOGAR",
+    "title" : "DECOHOGAR"
+  }, {
+    "icon" : "moda",
+    "items" : [ {
+      "evento" : "",
+      "image" : "190607-pc-xl-moda-mujer-cortefiel",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat7720505/Cortefiel",
+      "width" : "2",
+      "version":"vid=2"
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-moda-mujer-alpaca",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat12250471/",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-moda-mujer-kayra",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat7840496/",
+      "width" : "1"
+
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-moda-mujer-paletas",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat12550464/",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-moda-mujer-relojes",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat9090486/",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-xl-calzado-botas",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat6630523/Botas",
+      "width" : "2"
+    } ],
+    "name" : "mujer",
+    "order" : 3,
+    "section" : "MUJER",
+    "title" : "MUJER"
+  }, {
+    "icon" : "deportes",
+    "items" : [ {
+      "evento" : "",
+      "image" : "190607-pc-maquinas-oxford",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat12540461/",
+      "width" : "2",
+      "version" : "vid=5"
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-camiseta-199",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat40611/Futbol",
+      "width" : "1",
+      "version" : "3"
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-thenorthface",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat12280462/THE-NORTH-FACE/N-1z10sfaZ1z10ug0Z1z10wtiZ1z10wuuZ1z10x5r",
+      "width" : "1",
+      "version" : "3"
+    } ],
+    "name" : "deportes",
+    "order" : 4,
+    "section" : "DEPORTES",
+    "title" : "DEPORTES"
+  }, {
+    "icon" : "infantil",
+    "items" : [ {
+      "evento" : "",
+      "image" : "190607-pc-infantil-maternelle",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat12530470/",
+      "width" : "1",
+      "version":"vid=2"
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-infantil-juguet-mickey-99",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat800484/",
+      "width" : "1"
+    }, {
+      "evento" : "",
+      "image" : "190607-pc-infantil-disney-dual-look",
+      "maxHeight" : "",
+      "normal" : "",
+      "price" : "",
+      "subtitle" : "",
+      "textButton" : "",
+      "title" : "",
+      "url" : "https://www.falabella.com.pe/falabella-pe/category/cat9040462/",
+      "width" : "2"
+    } ],
+    "name" : "infantil",
+    "order" : 5,
+    "section" : "INFANTIL",
+    "title" : "INFANTIL"
+  } ]
+}
